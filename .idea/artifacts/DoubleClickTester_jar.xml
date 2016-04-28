@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DoubleClickTester:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoubleClickTester_jar</output-path>
+    <root id="archive" name="DoubleClickTester.jar">
+      <element id="module-output" name="DoubleClickTester" />
+    </root>
+  </artifact>
+</component>
